@@ -11,7 +11,7 @@ Because grabbing the data with `R` is so easy, I took a few minutes to calculate
 
 The image below shows the histogram of schools in our universe by admit rate.  It's clear that the majority of institutions accept more applicants than they deny.
 
-![Histogram]("figs/hist.png")
+![Histogram](figs/hist.png)
 
 
 
@@ -19,5 +19,5 @@ The image below shows the histogram of schools in our universe by admit rate.  I
 
 I also wanted to look at the correlation of admit rate and yield rate.
 
-![Scatter]("figs/Admit-Yield.png")
+![Scatter](figs/Admit-Yield.png)
 
